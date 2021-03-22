@@ -14,4 +14,3 @@ Flexbox
 ## Acessando o Site
 Acesse o link abaixo:
 https://pablochristian.github.io/instagramclone/
-
